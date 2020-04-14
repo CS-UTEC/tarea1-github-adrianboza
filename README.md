@@ -1,1 +1,1 @@
-Nombre: Adrián Boza Martin Código: 201710255
+Adrián Boza Martin 201710255
