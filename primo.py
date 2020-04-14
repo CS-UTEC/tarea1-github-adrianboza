@@ -6,4 +6,4 @@ for i in range(1,n+1):
 if(a!=2):
  print("No es primo")
 else:
- print("Es primo")
+ print("Es primo") 
